@@ -1,19 +1,19 @@
 
 
 # New Mirror Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
+![GitHub Repo stars](https://img.shields.io/github/stars/MydriveBot/NewMirrorBot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/MydriveBot/NewMirrorBot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/MydriveBot/NewMirrorBot?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/MydriveBot/NewMirrorBot)
 ![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
 
-**Slam Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
+**New Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features:
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
-## By Slam Devs
+## By Developer
 - qBittorrent
 - Leech supported
 - Thumbnail supported
