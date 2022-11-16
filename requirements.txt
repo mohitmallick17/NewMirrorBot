@@ -1,3 +1,4 @@
+pysqlite3
 aiohttp
 anytree
 aria2p
@@ -32,4 +33,3 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
-pysqlite3
