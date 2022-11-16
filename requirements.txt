@@ -1,3 +1,4 @@
+pysqlite
 aiohttp
 anytree
 aria2p
