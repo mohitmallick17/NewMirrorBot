@@ -32,5 +32,4 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 youtube_dl
-sqlite3 
 pysqlite3
