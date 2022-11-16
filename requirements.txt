@@ -1,4 +1,3 @@
-libsqlite3-dev
 aiohttp
 anytree
 aria2p
